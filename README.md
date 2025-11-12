@@ -1,2 +1,2 @@
 # Pacman-Game-By-Python
-this suck project so fucking bullshit
+Tham khao tren pacmancode.com
